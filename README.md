@@ -55,4 +55,9 @@ Follow these steps based on your role to use the Online Gym Management System:
 - **Database:** MySQL  
 - **Version Control:** Git and GitHub
 
+## Screenshots
+Below is a screenshot of the home page for this project:
+
+![Home Page Screenshot](./assets/Gym.png)
+
 
